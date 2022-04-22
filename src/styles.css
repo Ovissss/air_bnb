@@ -1,0 +1,25 @@
+nav{
+height: 70px;
+box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+}
+
+.logo{
+margin-left: 30px;
+margin-top: 22px;
+}
+
+.group{
+display: flex;
+width: 395px;
+height: 232px; 
+margin: auto;
+margin-top: 26px;
+}
+p{
+margin-left: 36px;
+margin-top: 32px;
+font-family: sans-serif;
+font-weight: 300;
+size: 16px;
+line-height: 17.6px;
+}
